@@ -8,7 +8,7 @@ python code to download links of all videos of any given channel
 I have taken BBC Sports youtube channel
 
 
-:round_pushpin:The second one Rajarshi kofluence.ipynb is where i have used a for loop
+:round_pushpin:The second one Rajarshi.ipynb is where i have used a for loop
 to iterate on these links one by one and scrape the required
 elements to a dataframe which I then exported to a csv file.
 
